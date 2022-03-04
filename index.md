@@ -20,3 +20,6 @@ O que faz da nossa ideia algo plausível é a possível aplicação nas salas de
 Para realizarmos o projeto, utilizaremos as seguintes tecnologias: [Visio](https://support.microsoft.com/pt-br/office/instalar-o-visio-ou-acessar-o-visio-na-web-f98f21e3-aa02-4827-9167-ddab5b025710) para realizar o fluxograma, [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) e [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) para a landing page, [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) pra refinar o front-end e construir o beck-end, [NodeJS](https://nodejs.org/en/about/) para auxiliar o JavaScript na construção do banco de dados, [Python](https://www.python.org/) e [Java](https://www.java.com/pt-BR/) para o desenvolvimento de um possível software.
 
 As nossas principais dificuldades serão a integração do banco de dados com o sistema e a construção da interface gráfica para o software, pois ainda não aprendemos isso devidamente em sala aula.
+
+## Diario de Bordo
+ - https://github.com/NatanPolsak/Programirins-by-VP/blob/main/Fevereiro.md
