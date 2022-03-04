@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Programirins
+## Vision Projects
 
-You can use the [editor on GitHub](https://github.com/NatanPolsak/Programirins-by-VP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Descrição do Projeto
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Um dos maiores problemas atualmente no Brasil e no mundo, é a educação, que foi agravada na pandemia causando uma crise mundial. Visando isso como cidadãos e estudantes, sabemos melhor que ninguém os problemas do sistema educacional e as distrações que existem, em especial nos eletrônicos.
 
-```markdown
-Syntax highlighted code block
+Com esse problema real e próximo, visamos pelo menos ajudar e contribuir um pouco com o combate contra a desigualdade educacional e até mesmo o analfabetismo, até porque sabemos que as crianças hoje em dia já nascem sabendo mexer no celular antes mesmo de andar. Com esse projeto ainda em andamento, pretendemos criar pensamento lógico através de linguagens de programação introduzidas desde a infância, que ajudará muito na caminhada escolar e fazer o usuário querer aprender, ao invés de fazê-lo por obrigação.
 
-# Header 1
-## Header 2
-### Header 3
+O que faz da nossa ideia algo plausível é a possível aplicação nas salas de aula, principalmente na idade de alfabetização aliando a tecnologia ao aprendizado. Atualmente os professores simplesmente banem a tecnologia em sua maioria, ou então se existe alguma permissão, os alunos saem do objetivo. Sendo assim o contato com a tecnologia de forma didática desde o começo da alfabetização e criando um senso lógico de forma mais leve, assim habituando separar o lazer do estudo.
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## Tecnologias adotadas
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Para realizarmos o projeto, utilizaremos as seguintes tecnologias: [Visio](https://support.microsoft.com/pt-br/office/instalar-o-visio-ou-acessar-o-visio-na-web-f98f21e3-aa02-4827-9167-ddab5b025710) para realizar o fluxograma, [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) e [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) para a landing page, [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) pra refinar o front-end e construir o beck-end, [NodeJS](https://nodejs.org/en/about/) para auxiliar o JavaScript na construção do banco de dados, [Python](https://www.python.org/) e [Java](https://www.java.com/pt-BR/) para o desenvolvimento de um possível software.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NatanPolsak/Programirins-by-VP/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+As nossas principais dificuldades serão a integração do banco de dados com o sistema e a construção da interface gráfica para o software, pois ainda não aprendemos isso devidamente em sala aula.
