@@ -3,7 +3,7 @@
 
 ---
 
-Acompanhe a evolução do nosso [projeto](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Fevereiro.md) também!
+Acompanhe a evolução do nosso [projeto](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Fevereiro.md)!
 
 ---
 ## Descrição do Projeto
