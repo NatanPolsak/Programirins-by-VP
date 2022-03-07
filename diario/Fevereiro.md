@@ -7,14 +7,14 @@ Depois da formação dos grupos e a divisão de tarefas, houve uma discussão so
 Criamos algumas páginas como ideias iniciais:
 ![SiteCores1](./Imagens/Fev_01.jpeg)
 
-Pesquisamos que a combinação de cores de verde e azul é mais atraente para jovens, que seria nosso público-alvo
+Pesquisamos que a combinação de cores de verde e azul é mais atraente para jovens, que seria nosso público-alvo:
 ![SiteCores2](./Imagens/Fev_02.jpeg)
 
 
 ***
 
   ## Semana 2 - dias 21 a 26
-  Formulamos uma melhor ideia do que nosso projeto seria, criariamos um site que ensinaria pessoas à programar, usando também um sistema de banco de dados para criar perfis. 
+  Formulamos uma melhor ideia do que nosso projeto seria, criariamos um site que ensinaria pessoas à programar, usando também um sistema de banco de dados para criar perfis. Vamos usar também [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) e [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) para a loading page, [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) pra refinar o front-end e construir o beck-end, [NodeJS](https://nodejs.org/en/about/) para auxiliar o JavaScript na construção do banco de dados, [Python](https://www.python.org/) e [Java](https://www.java.com/pt-BR/) para o desenvolvimento do software.
   Construção inicial da tematização do site.
   
   Fizemos a página de login:
