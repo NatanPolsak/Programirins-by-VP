@@ -17,10 +17,14 @@ Pesquisamos que a combinação de cores de verde e azul é mais atraente para jo
   Formulamos uma melhor ideia do que nosso projeto seria, criariamos um site que ensinaria pessoas à programar, usando também um sistema de banco de dados para criar perfis. 
   Construção inicial da tematização do site.
   
+  
   Fizemos a página de login:
+  
   ![SiteLogin](./Imagens/1S-FEV-3.jpeg)
   
+  
   E também a página inicial:
+  
   ![SitePaginaInicial](./Imagens/2S-FEV-1.jpeg)
   
 ***
