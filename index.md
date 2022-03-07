@@ -1,5 +1,4 @@
-# Programirins
-## Vision Projects
+# Programirins - Vision Projects
 
 ---
 
@@ -24,4 +23,4 @@ As nossas principais dificuldades serão a integração do banco de dados com o 
 ---
 
 ## Diario de Bordo
- - https://github.com/NatanPolsak/Programirins-by-VP/blob/main/Fevereiro.md
+ https://github.com/NatanPolsak/Programirins-by-VP/blob/main/Fevereiro.md
