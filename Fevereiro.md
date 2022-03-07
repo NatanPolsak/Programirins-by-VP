@@ -1,5 +1,5 @@
 
-# Fevereiro 
+# Diário de Bordo - Fevereiro 
  
   ## Semana 1 - dias 13 a 20
 Depois da formação dos grupos e a divisão de tarefas, houve uma discussão sobre o que seria o nosso TCC, as ideias não eram muito bem formadas ainda mas tinhamos certeza que deveria ser algo relacionado à educação.
