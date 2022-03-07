@@ -18,6 +18,9 @@ Pesquisamos que a combinação de cores de verde e azul é mais atraente para jo
   ## Semana 2 - dias 21 a 26
   Formulamos uma melhor ideia do que nosso projeto seria, criariamos um site que ensinaria pessoas à programar, usando também um sistema de banco de dados para criar perfis. 
   Construção inicial da tematização do site.
+  ### Tecnologias adotadas:
+  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+  [CSS](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics)
   
   Fizemos a página de login:
   ![SiteLogin](./Imagens/1S-FEV-3.jpeg)
