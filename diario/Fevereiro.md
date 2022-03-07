@@ -29,7 +29,7 @@ Pesquisamos que a combinação de cores de verde e azul é mais atraente para jo
 Mudamos totalmente a página inicial, com uma nova ideia, adicionando movimento à pagina:
 ![SitePaginaInicial2](./Imagens/Fev_05.jpeg)
 
-Criação inicial da logotipo
+Criação inicial da logotipo:
 
 ![LogoVision](./Imagens/Fev_06.jfif)
 
