@@ -1,4 +1,5 @@
-# Programirins - Vision Projects
+# Programirins
+## Vision Projects
 
 ---
 
@@ -20,7 +21,6 @@ Para realizarmos o projeto, utilizaremos as seguintes tecnologias: [Visio](https
 
 As nossas principais dificuldades serão a integração do banco de dados com o sistema e a construção da interface gráfica para o software, pois ainda não aprendemos isso devidamente em sala aula.
 
----
+--- 
 
-## Diario de Bordo
- https://github.com/NatanPolsak/Programirins-by-VP/blob/main/Fevereiro.md
+### Acompanhe a evolução do projeto no nosso [diário de bordo](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Fevereiro.md)!
