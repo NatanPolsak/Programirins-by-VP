@@ -1,7 +1,7 @@
 
 # Fevereiro
 
-##Índice
+## Índice
 - Semana 1: formação de grupos e discussão sobre o tema
 - Semana 2: concretização do projeto e construção inicial
 - Semana 3: reformulação do design e criação do logotipo
