@@ -32,7 +32,7 @@ Pesquisamos que a combinação de cores de verde e azul é mais atraente para jo
 ***
 ## Semana 3 - Dias 27/02 a 04/03 
 	
-Mudamos totalmente a página inicial, com uma nova ideia, adicionando movimento à pagina:
+Mudamos totalmente a página inicial, testando uma nova ideia, adicionando movimento à pagina:
 ![SitePaginaInicial2](./Imagens/Fev_05.jpeg)
 
 Criação inicial da logotipo:
