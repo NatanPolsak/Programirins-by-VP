@@ -25,4 +25,4 @@ As nossas principais dificuldades serão a integração do banco de dados com o 
 
 ### Acompanhe a evolução do projeto no nosso [diário de bordo](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Fevereiro.md)!
 
-### Para visualizar no site [Clique Aqui]()
+### Para visualizar no site [Clique Aqui](https://natanpolsak.github.io/Programirins-by-VP/)!
