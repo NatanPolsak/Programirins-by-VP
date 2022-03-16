@@ -2,7 +2,7 @@
 
 ## Índice
 - Semana 4: finalização da página inicial e declaração do nome do projeto
-- Semana 5: ---
+- Semana 5: mudança no design do título da página inicial
 - Semana 6: ---
 - Semana 7: ---
 
