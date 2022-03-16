@@ -18,8 +18,10 @@ Modificamos aspectos estéticos da página inicial, modificando o design do tít
 
 ![SitePaginaInicial3.2](./Imagens/Mar_02.jpg)
 
-Conectamos os botões às respectivas páginas e iniciamos a programação da parte das atividades.
+Modificamos o design das páginas de login e cadastro para ficar coerente com a página inicial.
 
 ![SitePaginaLogin](./Imagens/Mar_03.jpg)
 
 ![SitePaginaCadastro](./Imagens/Mar_04.jpg)
+
+Conectamos os botões às respectivas páginas e iniciamos a programação da parte das atividades.
