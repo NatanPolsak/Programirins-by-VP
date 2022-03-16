@@ -1,7 +1,7 @@
 # Março
 
 ## Índice
-- Semana 4: 
+- Semana 4: finalização da página inicial e declaração de nome
 - Semana 5: ---
 - Semana 6: ---
 - Semana 7: ---
