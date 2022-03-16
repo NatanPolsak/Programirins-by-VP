@@ -29,7 +29,7 @@ Pesquisamos que a combinação de cores de verde e azul é mais atraente para jo
   ![SitePaginaInicial](./Imagens/Fev_04.jpeg)
   
 ***
-## Semana 3 - Dias 28/02 a 03/03 
+## Semana 3 - Dias 28/02 a 06/03 
 	
 Mudamos totalmente a página inicial, testando uma nova ideia, adicionando movimento à pagina:
 ![SitePaginaInicial2](./Imagens/Fev_05.jpeg)
