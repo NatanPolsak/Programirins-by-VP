@@ -11,5 +11,7 @@ Finalizamos a página inicial, adicionando botões e declarando um nome para o n
 
 ![SitePaginaInicial3](./Imagens/Mar_01.jpg)
 
+![SitePaginaInicial3.1](./Imagens/Mar_01.1.jpg)
+
 ## Semana 5 - dias 14 a 20
 Conectamos os botões às respectivas páginas e iniciamos a programação da parte das atividades.
