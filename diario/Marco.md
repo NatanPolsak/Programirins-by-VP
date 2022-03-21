@@ -26,9 +26,9 @@ Modificamos o design das páginas de login e cadastro para ficar coerente com a 
 
 Conectamos os botões às respectivas páginas e iniciamos a programação da parte das atividades.
 
-... imagens
-... imagens
-... imagens
+- ... imagens
+- ... imagens
+- ... imagens
 
 ## Semana 5 - dias 21 a 27
 Trabalhamos no acabamento das páginas de login e cadastro
