@@ -33,6 +33,6 @@ Conectamos os botões às respectivas páginas e iniciamos a programação da pa
 ## Semana 5 - dias 21 a 27
 Trabalhamos no acabamento das páginas de login e cadastro
 
-![SitePaginaLogin2](./Imagens/Mar_03.1.jpg)
+![SitePaginaLogin2](./Imagens/Mar_03.2.jpg)
 
-![SitePaginaCadastro2](./Imagens/Mar_04.1.jpg)
+![SitePaginaCadastro2](./Imagens/Mar_04.2.jpg)
