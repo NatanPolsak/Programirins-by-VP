@@ -39,3 +39,4 @@ Criação inicial da logotipo:
 ![LogoVision](./Imagens/Fev_06.jfif)
 
 ***
+### Diário de Bordo - [Março](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Marco.md).
