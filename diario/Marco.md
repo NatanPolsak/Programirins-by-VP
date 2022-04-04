@@ -24,11 +24,7 @@ Modificamos o design das páginas de login e cadastro para ficar coerente com a 
 
 ![SitePaginaCadastro](./Imagens/Mar_04.jpg)
 
-Conectamos os botões às respectivas páginas e iniciamos a programação da parte das atividades.
-
-- ... imagens
-- ... imagens
-- ... imagens
+Conectamos os botões às respectivas páginas e iniciamos a pesquisa sobre como faremos a programação da parte das atividades.
 
 ## Semana 6 - dias 21 a 27
 Trabalhamos no acabamento das páginas de login e cadastro
