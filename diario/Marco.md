@@ -39,7 +39,5 @@ Os gerentes de documentação e técnico apresentaram o projeto para a sala e o 
 
 --- 
 
-### [← Diário de Fevereiro](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Fevereiro.md) [Diário de Abril →](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Abril.md)
-Alinhado a esquerda | Centralizado | Alinhado a direita
-:--------- | :------: | -------:
-Valor | Valor | Valor
+:--------- | -------:
+### [← Diário de Fevereiro](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Fevereiro.md) | [Diário de Abril →](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Abril.md)
