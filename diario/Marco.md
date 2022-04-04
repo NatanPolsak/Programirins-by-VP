@@ -30,7 +30,7 @@ Conectamos os botões às respectivas páginas e iniciamos a programação da pa
 - ... imagens
 - ... imagens
 
-## Semana 5 - dias 21 a 27
+## Semana 6 - dias 21 a 27
 Trabalhamos no acabamento das páginas de login e cadastro
 
 ![SitePaginaLogin2](./Imagens/Mar_03.2.jpg)
