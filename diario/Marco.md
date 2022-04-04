@@ -25,7 +25,7 @@ Modificamos o design das páginas de login e cadastro para ficar coerente com a 
 ![SitePaginaCadastro](./Imagens/Mar_04.jpg)
 
 Conectamos os botões às respectivas páginas e iniciamos a pesquisa sobre como faremos a programação da parte das atividades.
-- Conhecemos o [Jupyter](https://jupyter.org/) e o [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
+- Conhecemos o [Jupyter](https://jupyter.org/) e o [REPL.](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
 
 ## Semana 6 - dias 21 a 27
 Trabalhamos no acabamento das páginas de login e cadastro
