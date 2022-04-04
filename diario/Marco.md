@@ -38,6 +38,6 @@ Trabalhamos no acabamento das páginas de login e cadastro
 Os gerentes de documentação e técnico apresentaram o projeto para a sala e o professor. Nossa postura e evolução no projeto foram analisadas e recebemos o feedback do que era necessário mudar, como por exemplo averiguar se as imagens tinham direitos autorais assim como também diminuir o tempo de apresentação. Por fim fizemos uma análise geral do projeto e fizemos pequenas alterações na ideia, entretanto ainda precisamos analisar a questão dos direitos autorais.
 
 --- 
-
+anterior | próximo
 :--------- | -------:
 ### [← Diário de Fevereiro](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Fevereiro.md) | [Diário de Abril →](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Abril.md)
