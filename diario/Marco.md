@@ -4,7 +4,7 @@
 - Semana 4: finalização da página inicial e declaração do nome do projeto
 - Semana 5: mudança no design, conexão das páginas entre si e início da programação das atividades
 - Semana 6: polimento das páginas
-- Semana 7: ---
+- Semana 7: análise geral
 
 ## Semana 4 - dias 07 a 13
 Finalizamos a página inicial, adicionando botões e declarando um nome para o nosso projeto.
@@ -33,3 +33,6 @@ Trabalhamos no acabamento das páginas de login e cadastro
 ![SitePaginaLogin2](./Imagens/Mar_03.2.jpg)
 
 ![SitePaginaCadastro2](./Imagens/Mar_04.2.jpg)
+
+## Semana 7 - dias 28 a 03
+Apresentamos o nosso projeto e a nossa evolução prática até o momento. Nosso professor
