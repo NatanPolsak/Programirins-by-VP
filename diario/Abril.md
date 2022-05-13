@@ -27,3 +27,7 @@ Substituímos as imagens com direitos autorais nas páginas já criadas.
 Construimos o banco de dados da parte do cadastro.
 
 ![BancoDeDadosCadastro](./Imagens/Abril_05.jpg)
+
+## Semana 12 - dias 02 a 08
+
+Melhoramos o banco de dados, adicionando criptografia aos dados.
