@@ -2,9 +2,9 @@
 
 ## Índice
 - Semana 8: Início da construção do perfil
-- Semana 9: -
-- Semana 10: -
-- Semana 11: -
+- Semana 9: Checagem no progresso do projeto pelo supervisor
+- Semana 10: Mudanças de imagens no projeto
+- Semana 11: Construção do banco de dados do cadastro
 
 ## Semana 8 - dias 04 a 10
 
