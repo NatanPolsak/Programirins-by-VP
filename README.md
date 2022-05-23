@@ -1,7 +1,7 @@
 # Programirins
 ## Vision Projects
 
-### Veja nossa [introdução](./Documentacao/introducao.md)!
+### Veja a nossa [introdução](./Documentacao/introducao.md)!
 
 ### Acompanhe a evolução do projeto no nosso [diário de bordo](./diario/menu_diario.md)!
 
