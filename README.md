@@ -1,9 +1,13 @@
 # Programirins
 ## Vision Projects
 
+### Veja nossa [introdução](./Documentacao/introducao.md)!
+
 ### Acompanhe a evolução do projeto no nosso [diário de bordo](./diario/menu_diario.md)!
 
 ### Para visualizar no site [Clique Aqui](https://natanpolsak.github.io/Programirins-by-VP/)!
+
+### Para visualizar nossas referências [Clique Aqui](./Documentacao/referencias.md)!
 
 ---
 
