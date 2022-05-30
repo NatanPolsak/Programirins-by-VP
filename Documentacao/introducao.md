@@ -4,4 +4,4 @@ Desta forma nosso projeto pretende principalmente aprimorar o sistema educaciona
 
 >“Existem muitos estudos que demonstram que o contato com programação tem um impacto positivo no desenvolvimento de habilidades cognitivas e sócio-emocionais das crianças. A programação tem sido discutida como uma forma de estimular o desenvolvimento do pensamento computacional nas crianças. [...]”(CARBAJAL, 2016).
 
-Como também afirma Silva (2017): “O ensino de programação favorece o desenvolvimento do raciocínio lógico, da capacidade de abstração, além de apoiar o desenvolvimento de habilidades como resolução de problemas e noções de causa e efeito.”. Vê-se assim que a implementação da programação desde a infância tem potencial de aprimorar o sistema educacional de hoje.
+Como também afirma Silva (2017): “O ensino de programação favorece o desenvolvimento do raciocínio lógico, da capacidade de abstração, além de apoiar o desenvolvimento de habilidades como resolução de problemas e noções de causa e efeito”. Vê-se assim que a implementação da programação desde a infância tem potencial de aprimorar o sistema educacional de hoje.
