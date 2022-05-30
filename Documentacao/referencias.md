@@ -8,4 +8,5 @@
 *	GARLET, Daniela. Uma proposta para o ensino de programação na educação básica. 2016.
 *	HIRANO, Fabio Takashi. O Uso de Gamification no ensino de Programação para 
 Crianças: um estudo de caso. 2015. 
+* PUENTE, Beatriz. Com maior número em seis anos, Brasil tem 244 mil jovens de 6 a 14 fora da escola. CNN Brasil, 2021.
 
