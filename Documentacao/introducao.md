@@ -9,11 +9,3 @@ Como também afirma Silva (2017):
 >“O ensino de programação favorece o desenvolvimento do raciocínio lógico, da capacidade de abstração, além de apoiar o desenvolvimento de habilidades como resolução de problemas e noções de causa e efeito.”. 
 
 Vê-se assim que a implementação da programação desde a infância tem potencial de aprimorar o sistema educacional de hoje.
-
-Referências:
-
-PUENTE, Beatriz. Com maior número em seis anos, Brasil tem 244 mil jovens de 6 a 14 fora da escola. CNN Brasil, 2021.
-
-CARBAJAL, M. L. Design e desenvolvimento de um ambiente de programação tangível de baixo custo para crianças. Tecnologias, Sociedade e Conhecimento, Campinas, SP, v. 4, n. 1, p. 179–182, 2017
-
-SILVA, Jailson Cunha da. Ensino de Programação para alunos do Ensino Básico: Um levantamento das pesquisas realizadas no Brasil. 2017.
