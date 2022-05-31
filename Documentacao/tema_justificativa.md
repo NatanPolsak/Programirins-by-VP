@@ -1,12 +1,11 @@
-# justificativa e descrição do tema
+# justificativa do tema
 ### By: Vision Projects
 
----
+  A educação, devido a pandemia, passou por grandes perdas de qualidade, e problemas na habilidade de reter a atenção do adolescente e da criança nos estudos, como diz a pesquisa feita por Puente (2021), cerca de 244 mil crianças e adolescentes entre 6 e 14 anos estão fora da escola no país, demonstrando um aumento de 171,1% na evasão escolar comparando números de 2019.
+  Acreditamos que, como alunos que estudaram durante a pandemia, nosso projeto deveria ser algo que se referisse a educação, e após pesquisas, nós nos encontramos com o conceito de "Gamification", que para Huotari e Hamari (2012 apud Hirano, 2015):
+  
+ >"Gamification é uma forma de empacotar um produto de forma que seu serviço principal seja
+  melhorado por um sistema de regras que geram uma resposta e mecanismos de interação com o
+  usuário que busquem facilitar e ajudar a criação de valor percebido pelo usuário."
 
-**Um dos maiores problemas** no nosso país, e até no mundo, é a educação. Dessa forma, nosso projeto pretende colaborar com essa causa, ja solucionando outro problema futuro, que é a falta de profissionais na área da informática, que está em constante crescimento na demanda de trabalhadores, com um déficit previsto de 106 mil pessoas em 2025. 
-
-Nosso projeto é pensado para ser aplicado em crianças após a fase de alfabetização, entre os 9 e 14 anos, dessa forma o nosso público desde cedo aprenderá a aperfeiçoar a lógica, que será de suma importância na vida, tanto acadêmica quanto pessoal. Crianças tem uma aptidão voraz para aprender e se elas conseguem estudar português, inglês e matemática, por quê não aprender uma linguagem de programação?
-
-Além de aperfeiçoar a lógica, como ja dito antes, outras vantagens é a aplicação da tecnologia em sala de aula logo cedo, com isso um dos objetivos do nosso projeto também é ensinar desde a infância a diferenciar os usos dos eletrônicos, tanto para a diversão como para estudo, a idade alvo do nosso aplicativo é favorável para isso, crianças tendem a criar hábitos que levam para a vida, de modo que é mais fácil ensina-las a aplicar a tecnologia de forma correta na escola do que em adolescentes.
-
-Desta forma esperamos que nosso projeto consiga formar não somente programadores, como uma população mais inteligente e crítica. Assim visamos criar um site que ensine a programar, nosso plano é fazer isso em blocos, que é a forma mais simples de fazer o que queremos e de a criança aprender, e ainda nao sabemos se será em uma ou mais linguagens mas será feito para ser aplicado em sala com um design atrativo para o nosso público alvo, de forma que os induza a "jogar" mais.
+  Assim decidimos experimentar com a gamificação, criando um site que ensinasse programação para jovens de 9 a 14 anos, assim também tentando promover o pensamento lógico desde cedo
