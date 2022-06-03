@@ -1,4 +1,4 @@
-# justificativa do tema
+# Justificativa do tema
 ### By: Vision Projects
 
   A educação, devido a pandemia, passou por grandes perdas na sua qualidade, e problemas na habilidade de reter a atenção do adolescente e da criança nos estudos, como diz a pesquisa feita por Puente (2021), cerca de 244 mil crianças e adolescentes entre 6 e 14 anos estão fora da escola no país, demonstrando um aumento de 171,1% na evasão escolar comparando números de 2019.
