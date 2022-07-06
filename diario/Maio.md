@@ -2,7 +2,7 @@
 
 ## Índice
 - Semana 12: Melhoria no banco de dados
-- Semana 13: Apresentação técnica
+- Semana 13: Segunda apresentação técnica
 - Semana 14: Construção da seleção de exercícios
 - Semana 15:
 
