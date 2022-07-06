@@ -27,3 +27,5 @@ Substituímos as imagens com direitos autorais nas páginas já criadas.
 Construimos o banco de dados da parte do cadastro.
 
 ![BancoDeDadosCadastro](./Imagens/Abril_05.jpg)
+
+### [← Diário de Março](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Marco.md) ou [Diário de Maio →](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Maio.md)
