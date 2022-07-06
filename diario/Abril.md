@@ -13,7 +13,7 @@ Iniciamos a construção da página "Perfil" do nosso projeto.
 
 ## Semana 9 - dias 11 a 17
 
-Trabalhamos na construção dos primeiros exercícios e o apresentamos ao professor, que notou erros e falhas que precisamos corrigir.
+Apresentamos nossas ideias para os primeiros exercícios ao professor, que notou erros e falhas que precisamos corrigir.
 
 ## Semana 10 - dias 18 a 24
 
