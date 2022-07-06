@@ -24,3 +24,6 @@ Modificamos o design das novas páginas para ficarem coerentes com o restante do
 ![PrimeiroExercicioNovoDesign](./Imagens/Jun_03.jpg)
 
 ## Semana 19 - dias 20 a 26
+
+Adicionamos alguns pequenos detalhes em todas as páginas, como o efeito de borrão por trás dos painéis
+![EfeitoBlur](./Imagens/Jun_04.jpg)
