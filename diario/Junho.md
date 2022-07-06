@@ -12,6 +12,12 @@ Modificamos o design da página de seleção de exercícios para ficar coerente 
 
 ## Semana 17 dias 06 a 12
 
+Criamos as primeiras páginas de exercícios, adicionando também um sistema de verificação e progressão.
+![PrimeiroExercicio](./Imagens/Jun_02.jpg)
+![PrimeiroExercicio1](./Imagens/Jun_02.1.jpg)
+![PrimeiroExercicio2](./Imagens/Jun_02.2.jpg)
+![PrimeiroExercicio3](./Imagens/Jun_02.3.jpg)
+
 ## Semana 18 - dias 13 a 19
 
 ## Semana 19 - dias 20 a 26
