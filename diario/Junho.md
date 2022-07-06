@@ -27,3 +27,5 @@ Modificamos o design das novas páginas para ficarem coerentes com o restante do
 
 Adicionamos alguns pequenos detalhes em todas as páginas, como o efeito de borrão por trás dos painéis
 ![EfeitoBlur](./Imagens/Jun_04.jpg)
+
+### [← Diário de Maio](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Maio.md) ou [Diário de x →](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/x.md)
