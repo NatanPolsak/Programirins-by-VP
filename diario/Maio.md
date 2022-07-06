@@ -24,3 +24,5 @@ Criamos a página de seleção dos exerícios:
 
 Alteramos a cor do menu, tornando-a menos chamativa e extravagante
 ![SiteMenuExc1](./Imagens/Mai_01.1.jpg)
+
+### [← Diário de Abril](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Abril.md) ou [Diário de Junho →](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Junho.md)
