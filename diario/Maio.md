@@ -1,7 +1,7 @@
 # Maio
 
 ## Índice
-- Seamna 12: Melhoria no banco de dados
+- Semana 12: Melhoria no banco de dados
 - Semana 13: Segunda apresentação técnica
 - Semana 14:
 - Semana 15:
