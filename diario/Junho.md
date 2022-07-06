@@ -3,7 +3,7 @@
 ## Índice
 - Semana 16: Ajuste da página de seleção de exercícios
 - Semana 17: Criação das primeiras páginas de exercícios
-- Semana 18:
+- Semana 18: Modificação do design das novas páginas
 - Semana 19:
 
 ## Semana 16 - dias 01 a 05
@@ -20,6 +20,7 @@ Criamos as primeiras páginas de exercícios, adicionando também um sistema de 
 
 ## Semana 18 - dias 13 a 19
 
-
+Modificamos o design das novas páginas para ficarem coerentes com o restante do projeto e corrigimos alguns pontos apontados pelo professor.
+![PrimeiroExercicioNovoDesign](./Imagens/Jun_03.jpg)
 
 ## Semana 19 - dias 20 a 26
