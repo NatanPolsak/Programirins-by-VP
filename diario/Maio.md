@@ -21,3 +21,6 @@ Criamos a página de seleção dos exerícios:
 
 
 ## Semana 15 - dias 23 a 29
+
+Alteramos a cor do menu, tornando-a menos chamativa e extravagante
+![SiteMenuExc1](./Imagens/Mai_01.1.jpg)
