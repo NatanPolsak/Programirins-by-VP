@@ -17,7 +17,7 @@ Apresentamos novamente o nosso projeto para o Professor. Recebemos orientações
 ## Semana 14 - dias 16 a 22
 
 Criamos a página de seleção dos exerícios:
-![SiteMenuExc](./Imagens/Mai_01.jpeg)
+![SiteMenuExc](./Imagens/Mai_01.jpg)
 
 
 ## Semana 15 - dias 23 a 29
