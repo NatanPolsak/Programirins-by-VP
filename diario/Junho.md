@@ -2,7 +2,7 @@
 
 ## Índice
 - Semana 16: Ajuste da página de seleção de exercícios
-- Semana 17:
+- Semana 17: Criação das primeiras páginas de exercícios
 - Semana 18:
 - Semana 19:
 
@@ -19,5 +19,7 @@ Criamos as primeiras páginas de exercícios, adicionando também um sistema de 
 ![PrimeiroExercicio3](./Imagens/Jun_02.3.jpg)
 
 ## Semana 18 - dias 13 a 19
+
+
 
 ## Semana 19 - dias 20 a 26
