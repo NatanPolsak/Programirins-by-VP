@@ -25,7 +25,7 @@ Modificamos o design das novas páginas para ficarem coerentes com o restante do
 
 ## Semana 19 - dias 20 a 26
 
-Adicionamos alguns pequenos detalhes em todas as páginas, como o efeito de borrão por trás dos painéis
+Adicionamos alguns pequenos detalhes em todas as páginas, como por exemplo o efeito de borrão por trás dos painéis
 ![EfeitoBlur](./Imagens/Jun_04.jpg)
 
 ### [← Diário de Maio](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Maio.md) ou [Diário de x →](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/x.md)
