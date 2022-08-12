@@ -5,7 +5,7 @@
 * Semana 21 - Recesso
 * Semana 22 - Recesso
 * Semana 23 - Recesso
-* Semana 24 - 
+* Semana 24 - Retorno
 
 
 ## Semana 20 - dias 27 a 03
