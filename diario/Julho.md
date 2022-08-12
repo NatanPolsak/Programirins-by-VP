@@ -1,15 +1,15 @@
 # Julho
 
 ## Índice
-* Semana 20 - dias 27 a 03
-* Semana 21 - dias 04 a 10
-* Semana 22 - dias 11 a 17
-* Semana 23 - dias 18 a 24
-* Semana 24 - dias 25 a 31
+* Semana 20 - Recesso
+* Semana 21 - Recesso
+* Semana 22 - Recesso
+* Semana 23 - Recesso
+* Semana 24 - 
 
 
 ## Semana 20 - dias 27 a 03
----
+--- Iniciamos as pesquisas para melhorar a qualidade do nosso sistemas em outras telas
 
 ## Semana 21 - dias 04 a 10
 ---
@@ -23,5 +23,4 @@
 ## Semana 20 - dias 25 a 31
 ---
 
-
-
+### [← Diário de Junho](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Junho.md) ou [Diário de Agosto→](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Agosto.md)
