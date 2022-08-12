@@ -20,7 +20,7 @@ Período de recesso
 ## Semana 23 - dias 18 a 24
 Período de recesso
 
-## Semana 20 - dias 25 a 31
+## Semana 24 - dias 25 a 31
 Iniciamos as pesquisas para melhorar a qualidade do nosso sistemas em outras telas.
 
 ### [← Diário de Junho](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Junho.md) ou [Diário de Agosto→](https://github.com/NatanPolsak/Programirins-by-VP/blob/main/diario/Agosto.md)
