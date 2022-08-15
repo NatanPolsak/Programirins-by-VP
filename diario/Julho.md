@@ -1,24 +1,24 @@
 # Julho
 
 ## Índice
-* Semana 20 - Recesso
-* Semana 21 - Recesso
-* Semana 22 - Recesso
-* Semana 23 - Recesso
-* Semana 24 - Retorno
+* Semana 20
+* Semana 21
+* Semana 22 
+* Semana 23 
+* Semana 24 
 
 
 ## Semana 20 - dias 27 a 03
-Período de recesso
+Discutimos sobre melhorias no projeto.
 
 ## Semana 21 - dias 04 a 10
-Período de recesso
+Aperfeiçoamento do desingn.
 
 ## Semana 22 - dias 11 a 17
-Período de recesso
+Melhorias no código.
 
 ## Semana 23 - dias 18 a 24
-Período de recesso
+Realizamos testes.
 
 ## Semana 24 - dias 25 a 31
 Iniciamos as pesquisas para melhorar a qualidade do nosso sistemas em outras telas.
