@@ -9,6 +9,8 @@
 
 ## Semana 25 - dias 01 a 07
 Refizemos o código da nossa página inicial, deixando-a adaptativa para mais resoluções (atualmente, para 1920x1080, 1366x768, 1280x720 e outras resoluções próximas)
+![1920x1080](./Imagens/Ago_01.jpg)
+![1280x720](./Imagens/Ago_01.02.jpg)
 
 ## Semana 26 - dias 08 a 14
 
