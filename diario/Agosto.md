@@ -20,3 +20,4 @@
 ---
 ## Semana 29 - dias 29 a 04
 ---
+https://github.com/NatanPolsak/Programirins-by-VP/blob/4c6ea21c18d8a4f225d9fd087fc3dcb477e1c6ab/diario/Julho.md
