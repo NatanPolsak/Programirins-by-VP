@@ -12,7 +12,7 @@
 Discutimos sobre melhorias no projeto.
 
 ## Semana 21 - dias 04 a 10
-Aperfeiçoamento do desingn.
+Aperfeiçoamento do design.
 
 ## Semana 22 - dias 11 a 17
 Melhorias no código.
