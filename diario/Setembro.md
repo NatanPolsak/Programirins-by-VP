@@ -12,6 +12,7 @@ Aprendemos sobre o Modelo Canvas e o fizemos para o nosso projeto.
 
 
 ## Semana 30 - dias 5 a 11
+Estudamos para construir exercícios que introduzam o aluno ao mundo da programação e à linguagem utilizada (Python) 
 
 
 ## Semana 31 - dias 12 a 18
