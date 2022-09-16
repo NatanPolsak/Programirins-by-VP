@@ -1,27 +1,23 @@
 # Setembro
 
 ## Índice
-* Semana 29 - atualizamos os códigos html para torná-los adaptativo
+* Semana 29 - Modelo Canvas
 * Semana 30
 * Semana 31 
 * Semana 32 
 
 
-## Semana 29 - dias 
-Refizemos o código da nossa página inicial, deixando-a adaptativa para mais resoluções (atualmente, para 1920x1080, 1366x768, 1280x720 e outras resoluções próximas)
-![1920x1080](./Imagens/Ago_01.png)
-![1280x720](./Imagens/Ago_01.2.png)
-
-## Semana 30 - dias 
-Refizemos o código, desta vez, da nossa página de cadastro, para torná-la adaptativa também
-![cadastro1920x1080](./Imagens/Ago_02.png)
-![cadastro1280x720](./Imagens/Ago_02.2.png)
+## Semana 29 - dias 29 a 04
+Aprendemos sobre o Modelo Canvas e o fizemos para o nosso projeto.
 
 
-## Semana 31 - dias 
+## Semana 30 - dias 5 a 11
 
 
-## Semana 32 - dias 
+## Semana 31 - dias 12 a 18
+
+
+## Semana 32 - dias 19 a 25
 
 
 
