@@ -1,7 +1,7 @@
 # Agosto
 
 ## Índice
-* Semana 25
+* Semana 25 - atualizamos os códigos html para torná-los adaptativo
 * Semana 26
 * Semana 27 
 * Semana 28 
@@ -13,6 +13,9 @@ Refizemos o código da nossa página inicial, deixando-a adaptativa para mais re
 ![1280x720](./Imagens/Ago_01.2.png)
 
 ## Semana 26 - dias 08 a 14
+Refizemos o código, desta vez, da nossa página de cadastro, para torná-la adaptativa também
+![cadastro1920x1080](./Imagens/Ago_02.png)
+![cadastro1280x720](./Imagens/Ago_02.2.png)
 
 
 ## Semana 27 - dias 15 a 21
